@@ -1,14 +1,3 @@
 {
-  "settingsInheritedFrom": "pferronMend/whitesource-config@main",
-  "scanSettingsSAST": {         
-		"enableScan": true,         
-		"baseBranches": [             "main"         ],         
-		"scanPullRequests": true,         
-		"incrementalScan": true,         
-		"snippetSize": 10     },     
-	"checkRunSettingsSAST": {         
-		"checkRunConclusionLevel": 
-		"success",         
-		"severityThreshold": "high"     
-		}
+  "settingsInheritedFrom": "pferronMend/whitesource-config@main"
 }
